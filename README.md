@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=180&section=header&text=SetupifyCo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=SetupifyCo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Discord+Automation+Systems;Utility+Bot+Development;Server+Management+Solutions;Built+with+C%23+and+.NET" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Discord+Automation+Systems;Utility+Bot+Development;Server+Management+Solutions;Built+with+C%23+and+.NET" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-00C853?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord_Bots-00C853?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Automation-1e1e1e?style=for-the-badge">
 </p>
 
@@ -75,7 +75,35 @@ The bot instantly generates organized server structures with categorized channel
 ├─ 🚨│reports
 └─ 🔒│Staff VC
 
+</div>
+
 ---
 
-# 📊 Development Statistics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SETUPIFYCO&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETUPIFYCO&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+# 👥 Included Roles
+
+````txt
+⚡ Setupify
+👑 Owner
+🛡️ Admin
+🔨 Staff
+🤖 Bots
+😎 Friend
+👤 Member
+
+---
+
+<div align="center">
+
+# 🚀 Get Setupify
+
+[![Invite Setupify](https://img.shields.io/badge/Invite_Setupify-00C853?style=for-the-badge&logo=discord&logoColor=white)](YOUR_BOT_INVITE_LINK)
+
+### Thank you for using Setupify.
+
+SetupifyCo is focused on building fast, reliable, and customizable Discord automation systems designed to simplify server management and community setup.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=160&section=footer&text=Setupify&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
