@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=SetupifyCo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Discord+Automation+Systems;Utility+Bot+Development;Server+Management+Solutions;Built+with+C%23+and+.NET" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Discord+Utility+Bot;Utility+Bot+Development;Server+Management+Solutions;Built+with+C%23+and+.NET" />
 
 <br>
 
