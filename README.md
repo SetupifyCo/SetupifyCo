@@ -21,8 +21,6 @@
 
 Setupify.co develops Discord automation systems and utility bots designed to simplify server management and community setup.
 
-Focused on performance, scalability, and customization, SetupifyCo creates tools that automate the process of building structured Discord communities with advanced role systems, permission handling, channel organization, and server utilities.
-
 ---
 
 # 🚀 Setupify (Discord Bot)
