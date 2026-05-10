@@ -98,7 +98,7 @@ The bot instantly generates organized server structures with categorized channel
 
 ### Thank you for using Setupify.
 
-SetupifyCo is focused on building fast, reliable, and customizable Discord automation systems designed to simplify server management and community setup.
+Setupify is focused on building fast, reliable, and customizable Discord automation systems designed to simplify server management and community setup.
 
 <br>
 
