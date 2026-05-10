@@ -50,7 +50,7 @@ The bot instantly generates organized server structures with categorized channel
 
 # 📁 Generated Server Structure
 
-````txt
+```txt
 📌 │ INFORMATION
 ├─ 📜│rules
 ├─ 📢│announcements
@@ -72,14 +72,13 @@ The bot instantly generates organized server structures with categorized channel
 ├─ 📋│mod-logs
 ├─ 🚨│reports
 └─ 🔒│Staff VC
-
-</div>
+```
 
 ---
 
 # 👥 Included Roles
 
-````txt
+```txt
 ⚡ Setupify
 👑 Owner
 🛡️ Admin
@@ -87,6 +86,7 @@ The bot instantly generates organized server structures with categorized channel
 🤖 Bots
 😎 Friend
 👤 Member
+```
 
 ---
 
