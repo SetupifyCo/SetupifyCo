@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-00C853?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Discord_Bots-00C853?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-1e1e1e?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Utility-1e1e1e?style=for-the-badge">
 </p>
 
 </div>
